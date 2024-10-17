@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { RectAreaLightHelper } from 'three/examples/jsm/helpers/RectAreaLightHelper';
 	import { RectAreaLightUniformsLib } from 'three/examples/jsm/lights/RectAreaLightUniformsLib';
 
 	import { onMount, onDestroy } from 'svelte';

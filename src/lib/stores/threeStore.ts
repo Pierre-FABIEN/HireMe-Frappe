@@ -4,8 +4,8 @@ import * as THREE from 'three';
 
 import { cameraService } from '$UITools/threeServices/CameraService';
 
-import { RectAreaLightHelper } from 'three/examples/jsm/helpers/RectAreaLightHelper';
-import { RectAreaLightUniformsLib } from 'three/examples/jsm/lights/RectAreaLightUniformsLib';
+import { RectAreaLightHelper } from 'three/examples/jsm/helpers/RectAreaLightHelper.js';
+import { RectAreaLightUniformsLib } from 'three/examples/jsm/lights/RectAreaLightUniformsLib.js';
 
 function createThreeStore() {
 	const { subscribe, set, update } = writable({

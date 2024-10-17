@@ -63,7 +63,7 @@
     "svelte-check": "*",
     "svelte-tweakpane-ui": "*",
     "sveltekit-i18n": "^2.4.2",
-    "three": "*",
+    "three": "^0.169.0",
     "tslib": "*",
     "tweakpane": "^3.1.0",
     "typescript": "*",
