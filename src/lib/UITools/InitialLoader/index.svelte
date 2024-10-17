@@ -105,7 +105,8 @@
 		width: 100vw;
 		height: 100vh;
 		font-size: 11vw;
-		color: #eb0055;
+		color: white;
 		background: black;
+		font-family: 'Zilla Slab', serif;
 	}
 </style>
