@@ -76,11 +76,18 @@
 		<div class="textContent">
 			<div class="title">
 				<h1>Pierre FABIEN</h1>
-				<img src="/img/logoFrappe.png" alt="Logo Frappe" />
+				<img src="/img/logoFrappe.webp" alt="Logo Frappe" width="500" height="110" />
 				<p>
-					Depuis 2017, mon parcours dans le développement web s'inscrit dans une quête constante d'innovation et de créativité. Après avoir acquis une solide maîtrise des outils graphiques comme Photoshop, Illustrator et After Effects, j’ai rapidement évolué vers le développement fullstack. Mes compétences incluent WordPress, Symfony, Next.js et SvelteKit, avec une expertise en front-end. Je suis passionné par la création de designs captivants et de backends performants pour des projets de E-commerce et SaaS, tout en intégrant des expériences 3D immersives avec ThreeJS.
-
-					Mes boilerplates sont conçus avec une approche holistique, offrant des solutions web complètes, robustes et sécurisées. Mon objectif est toujours d'allier technologie et créativité pour offrir des expériences utilisateur uniques et engageantes.
+					Depuis 2017, mon parcours dans le développement web s'inscrit dans une quête constante
+					d'innovation et de créativité. Après avoir acquis une solide maîtrise des outils
+					graphiques comme Photoshop, Illustrator et After Effects, j’ai rapidement évolué vers le
+					développement fullstack. Mes compétences incluent WordPress, Symfony, Next.js et
+					SvelteKit, avec une expertise en front-end. Je suis passionné par la création de designs
+					captivants et de backends performants pour des projets de E-commerce et SaaS, tout en
+					intégrant des expériences 3D immersives avec ThreeJS. Mes boilerplates sont conçus avec
+					une approche holistique, offrant des solutions web complètes, robustes et sécurisées. Mon
+					objectif est toujours d'allier technologie et créativité pour offrir des expériences
+					utilisateur uniques et engageantes.
 				</p>
 			</div>
 		</div>
@@ -93,9 +100,15 @@
 				<span>&</span>
 				<h1>Web Manager</h1>
 				<p>
-					Avec une expérience confirmée en tant que lead développeur, je suis prêt à apporter ma vision créative et mon savoir-faire technique au service d'une agence qui valorise le design et l'innovation. En tant que chef de projet, je maîtrise la coordination de développeurs et la gestion de projets pour garantir une mise en œuvre fluide et efficace.
-
-					Ma connaissance des technologies modernes, notamment WordPress, SvelteKit et la 3D, me permet de concevoir des solutions à la fois esthétiques et fonctionnelles. Travailler au sein d’une équipe dynamique et audacieuse me permettrait de contribuer à des projets ambitieux tout en mettant à profit mes compétences en gestion et mon goût pour l'innovation.
+					Avec une expérience confirmée en tant que lead développeur, je suis prêt à apporter ma
+					vision créative et mon savoir-faire technique au service d'une agence qui valorise le
+					design et l'innovation. En tant que chef de projet, je maîtrise la coordination de
+					développeurs et la gestion de projets pour garantir une mise en œuvre fluide et efficace.
+					Ma connaissance des technologies modernes, notamment WordPress, SvelteKit et la 3D, me
+					permet de concevoir des solutions à la fois esthétiques et fonctionnelles. Travailler au
+					sein d’une équipe dynamique et audacieuse me permettrait de contribuer à des projets
+					ambitieux tout en mettant à profit mes compétences en gestion et mon goût pour
+					l'innovation.
 				</p>
 			</div>
 		</div>
@@ -106,9 +119,14 @@
 			<div class="title">
 				<h1>Motivation</h1>
 				<p>
-					Intégrer Frappe représente pour moi une opportunité exceptionnelle de m’épanouir au sein d’une équipe créative et visionnaire. Je suis particulièrement séduit par votre approche novatrice du design et de l’interactivité, qui fait écho à mes propres ambitions de repousser les limites de l'expérience utilisateur. Rejoindre votre équipe serait pour moi l'occasion de relever des défis variés, tout en continuant à enrichir mes compétences techniques et managériales.
-
-					Je serais enchanté de pouvoir échanger plus en détail sur mes réalisations lors d’un entretien. Merci pour l’attention que vous porterez à ma candidature ; je reste à votre disposition pour toute information complémentaire.
+					Intégrer Frappe représente pour moi une opportunité exceptionnelle de m’épanouir au sein
+					d’une équipe créative et visionnaire. Je suis particulièrement séduit par votre approche
+					novatrice du design et de l’interactivité, qui fait écho à mes propres ambitions de
+					repousser les limites de l'expérience utilisateur. Rejoindre votre équipe serait pour moi
+					l'occasion de relever des défis variés, tout en continuant à enrichir mes compétences
+					techniques et managériales. Je serais enchanté de pouvoir échanger plus en détail sur mes
+					réalisations lors d’un entretien. Merci pour l’attention que vous porterez à ma
+					candidature ; je reste à votre disposition pour toute information complémentaire.
 				</p>
 			</div>
 		</div>
@@ -333,7 +351,6 @@
 					width: 500px;
 					text-align: justify;
 				}
-
 
 				@media only screen and (max-width: 550px) {
 					bottom: 1% !important;
