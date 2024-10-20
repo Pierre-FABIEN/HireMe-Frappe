@@ -78,16 +78,13 @@
 				<h1>Pierre FABIEN</h1>
 				<img src="/img/logoFrappe.webp" alt="Logo Frappe" width="500" height="110" />
 				<p>
-					Depuis 2017, mon parcours dans le développement web s'inscrit dans une quête constante
-					d'innovation et de créativité. Après avoir acquis une solide maîtrise des outils
-					graphiques comme Photoshop, Illustrator et After Effects, j’ai rapidement évolué vers le
-					développement fullstack. Mes compétences incluent WordPress, Symfony, Next.js et
-					SvelteKit, avec une expertise en front-end. Je suis passionné par la création de designs
-					captivants et de backends performants pour des projets de E-commerce et SaaS, tout en
-					intégrant des expériences 3D immersives avec ThreeJS. Mes boilerplates sont conçus avec
-					une approche holistique, offrant des solutions web complètes, robustes et sécurisées. Mon
-					objectif est toujours d'allier technologie et créativité pour offrir des expériences
-					utilisateur uniques et engageantes.
+					Dans le domaine du développement digital depuis 2017, je me suis spécialisé dans la
+					gestion de projets digitaux et la création de solutions web performantes et créatives.
+					Fort de mon expérience avec des technologies comme WordPress, Prestashop, SvelteKit, et
+					ThreeJS, j’ai mené des projets variés, allant de sites e-commerce à des plateformes SaaS,
+					avec une attention particulière portée à l’expérience utilisateur et la performance des
+					sites. Mon objectif est d'allier technologie et créativité pour offrir des solutions
+					innovantes et sur mesure.
 				</p>
 			</div>
 		</div>
@@ -100,15 +97,14 @@
 				<span>&</span>
 				<h1>Web Manager</h1>
 				<p>
-					Avec une expérience confirmée en tant que lead développeur, je suis prêt à apporter ma
-					vision créative et mon savoir-faire technique au service d'une agence qui valorise le
-					design et l'innovation. En tant que chef de projet, je maîtrise la coordination de
-					développeurs et la gestion de projets pour garantir une mise en œuvre fluide et efficace.
-					Ma connaissance des technologies modernes, notamment WordPress, SvelteKit et la 3D, me
-					permet de concevoir des solutions à la fois esthétiques et fonctionnelles. Travailler au
-					sein d’une équipe dynamique et audacieuse me permettrait de contribuer à des projets
-					ambitieux tout en mettant à profit mes compétences en gestion et mon goût pour
-					l'innovation.
+					Avec une solide expérience en gestion de projets web, je suis prêt à contribuer à des
+					projets digitaux ambitieux. Collaborer avec des équipes pluridisciplinaires pour concevoir
+					des expériences web uniques fait partie intégrante de mon approche. Que ce soit pour
+					piloter des projets sous WordPress, Prestashop, ou d'autres CMS, ou pour coordonner les
+					équipes internes et externes, je m'assure que chaque étape du projet est fluide,
+					respectant les délais et les budgets tout en gardant une qualité optimale. Je suis
+					également capable de proposer des solutions techniques adaptées à chaque projet tout en
+					favorisant la créativité.
 				</p>
 			</div>
 		</div>
@@ -119,14 +115,13 @@
 			<div class="title">
 				<h1>Motivation</h1>
 				<p>
-					Intégrer Frappe représente pour moi une opportunité exceptionnelle de m’épanouir au sein
-					d’une équipe créative et visionnaire. Je suis particulièrement séduit par votre approche
-					novatrice du design et de l’interactivité, qui fait écho à mes propres ambitions de
-					repousser les limites de l'expérience utilisateur. Rejoindre votre équipe serait pour moi
-					l'occasion de relever des défis variés, tout en continuant à enrichir mes compétences
-					techniques et managériales. Je serais enchanté de pouvoir échanger plus en détail sur mes
-					réalisations lors d’un entretien. Merci pour l’attention que vous porterez à ma
-					candidature ; je reste à votre disposition pour toute information complémentaire.
+					Rejoindre Frappe me permettrait de mettre mes compétences au service de projets digitaux
+					variés et stimulants. J’admire particulièrement votre approche créative et innovante,
+					ainsi que votre capacité à transformer des idées audacieuses en réalité. Mon expérience en
+					gestion de projets digitaux, associée à une forte sensibilité pour le design et la
+					performance, me permettrait de contribuer efficacement à l’équipe. Je suis convaincu que
+					mes compétences techniques, ma capacité à gérer des équipes et ma passion pour
+					l'innovation me permettront d'ajouter de la valeur à vos projets.
 				</p>
 			</div>
 		</div>
